@@ -1,0 +1,14 @@
+﻿<Window x:Class="Task2SaveToFile.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2SaveToFile"
+        mc:Ignorable="d"
+        Title="ParserDir" Height="70" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
+    <DockPanel>
+        <TextBlock Text="Directory: " DockPanel.Dock="Left" Margin="5"/>
+        <TextBox x:Name="PathDirectory" Margin="5" Width="350" VerticalContentAlignment="Center"/>
+        <Button x:Name="BtnGo" DockPanel.Dock="Right" Margin="5" Content="Go" Click="BtnGo_Click"/>
+    </DockPanel>
+</Window>

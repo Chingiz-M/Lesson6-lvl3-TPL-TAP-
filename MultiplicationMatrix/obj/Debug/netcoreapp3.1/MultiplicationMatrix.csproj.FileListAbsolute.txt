@@ -1,0 +1,13 @@
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.exe
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.deps.json
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.runtimeconfig.json
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.runtimeconfig.dev.json
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.dll
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\bin\Debug\netcoreapp3.1\MultiplicationMatrix.pdb
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.csprojAssemblyReference.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.AssemblyInfoInputs.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.AssemblyInfo.cs
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.csproj.CoreCompileInputs.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.dll
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.pdb
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\MultiplicationMatrix\obj\Debug\netcoreapp3.1\MultiplicationMatrix.genruntimeconfig.cache

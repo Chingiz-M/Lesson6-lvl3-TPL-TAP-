@@ -1,0 +1,15 @@
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser.csprojAssemblyReference.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\MainWindow.g.cs
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\App.g.cs
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser_MarkupCompile.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser_MarkupCompile.lref
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\bin\Debug\Task2Parser.exe.config
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\bin\Debug\Task2Parser.exe
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\bin\Debug\Task2Parser.pdb
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\MainWindow.baml
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser.g.resources
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser.Properties.Resources.resources
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser.csproj.GenerateResource.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser.csproj.CoreCompileInputs.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser.exe
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson6\MultiplicationMatrix\Task2Parser\obj\Debug\Task2Parser.pdb
